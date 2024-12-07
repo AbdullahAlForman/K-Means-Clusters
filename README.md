@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact  
 For questions or feedback, feel free to reach out:  
 **Email:** [abdllahal-2020914787@fin.du.ac.bd]  
-**GitHub:** [https://github.com/your-profile](https://github.com/your-profile)
+**GitHub:** [https://github.com/AbdullahAlForman]
 
 ---
 
